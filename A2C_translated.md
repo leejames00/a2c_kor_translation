@@ -117,7 +117,6 @@ Monte Carlo Fox estimated the target "labels" by Doing a rollout of a trajectory
 Rewards are often discounted to reflect the fact that a reward now is better than a rewardin the future. To keep thinks simple, Cranberry isn'y discounting her rewards.
 
 ##21
-
-
+ss
 
 
